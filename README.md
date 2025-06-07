@@ -1,6 +1,3 @@
-# Apple-Data-Analysis
-
-
 # 🍏 Apple Analysis ETL Pipeline
 
 This repository showcases a modular and scalable ETL pipeline developed for analyzing Apple Inc. data using PySpark on Databricks. The pipeline follows object-oriented design principles and is built to handle various data formats (CSV, Parquet, Delta) while maintaining clean and reusable architecture through the Factory Pattern.
